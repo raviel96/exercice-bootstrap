@@ -1,10 +1,9 @@
 .container {
-    border: 1px solid black;
 }
 
 .nav {
     width: fit-content;
-    border: 1px solid black;
+    border: 1px solid #ccc;
 }
 
 .nav-item:hover {
